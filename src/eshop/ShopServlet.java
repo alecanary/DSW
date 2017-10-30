@@ -84,6 +84,7 @@ public class ShopServlet extends javax.servlet.http.HttpServlet implements javax
 			}
 		} catch (Exception e) {
 			// out.println("Error updating shopping cart!");
+			
 		}
 	}
 
