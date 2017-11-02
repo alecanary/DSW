@@ -70,6 +70,7 @@ public class ShopServlet extends javax.servlet.http.HttpServlet implements javax
 			}
 		}
 	}
+	
 
 	protected void updateItem(HttpServletRequest request) {
 		HttpSession session = request.getSession(true);
